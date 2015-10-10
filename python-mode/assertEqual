@@ -3,4 +3,4 @@
 # key: ae
 # group: testing
 # --
-self.assertEqual($1, $2)
+self.assertEqual(${1:value}, ${2:expect})
